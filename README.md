@@ -2,7 +2,7 @@
 
 ### Available Reports:
 
-[2022 Beach Closure Report](https://ctdeepwatermonitoring/beachReport/)
+[2022 Beach Closure Report](https://ctdeepwatermonitoring.github.io/beachReport/)
 
 ### Description:
 
