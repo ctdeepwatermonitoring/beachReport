@@ -2,7 +2,9 @@
 
 ### Available Reports:
 
-[2022 Beach Closure Report](https://ctdeepwatermonitoring.github.io/beachReport/)
+[2023 Beach Closure Report](https://ctdeepwatermonitoring.github.io/beachReport/)
+
+[2022 Beach Closure Report](https://ctdeepwatermonitoring.github.io/beachReport/2022)
 
 [2021 Beach Closure and Bacteria Data Report](https://ctdeepwatermonitoring.github.io/beachReport/2021)
 
